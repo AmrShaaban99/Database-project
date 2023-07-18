@@ -1,0 +1,49 @@
+js 
+-store all datatypes of js
+
+-Auto growing 
+
+// constructor 
+let players= new Array();
+players.push()
+console.log(players)
+//-----------------------------
+let players= new Array(5); // number of data 
+players.push()
+console.log(players)
+//-----------------------------
+let players= new Array("amr,"data"); // number of data 
+players.push()
+console.log(players)
+
+
+
+لتسهيل if ممكن نستخدم 
+
+
+// ternary operator ()
+//
+let data=(userage>18)?"yes":"no";
+//
+
+(userage>18)?"yes":(userage>18)?"no":""maybe;
+
+
+// selecting 
+get element by id 
+
+get Elementby class Cname
+
+getelementby
+
+//------------------------------
+getElementByName 
+get elementbytagname
+//------------------------------
+can call by element not must in document 
+// 
+
+queryselector
+queryAll sector 
+
+ليه منقدرش نستدعي get elementbyid
